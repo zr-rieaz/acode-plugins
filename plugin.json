@@ -1,0 +1,16 @@
+{
+  "id": "com.zr.ai",
+  "name": "ZrAI Chat",
+  "main": "main.js",
+  "version": "1.3.0",
+  "readme": "readme.md",
+  "icon": "icon.svg",
+  "files": [],
+  "minVersionCode": 290,
+  "price": 0,
+  "author": {
+    "name": "Rieaz",
+    "email": "rsrieaz4405@gmail.com",
+    "github": "zr-rieaz"
+  }
+}
